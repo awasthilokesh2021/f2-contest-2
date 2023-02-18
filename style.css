@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    background: black;
+    color: white;
+}
+
+.main-container{
+   position: relative;
+   top: 62px;
+   left: 65px;
+}
+
+input{
+   padding: 10px 81px;
+   border: 1px solid white;
+   margin: 0 24px;
+}
+.in{
+   margin: 0 35px;
+}
+#btn{
+   background: white;
+   color: black;
+   padding: 8px 182px;
+}
+
+table{
+   position: relative;
+   top: 31px;
+   width: 53%;
+   border-collapse: collapse;
+   height: fit-content;
+}
+table, td, th {
+   border: 1px solid #ffff;
+ }
+
